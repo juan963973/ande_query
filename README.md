@@ -20,7 +20,7 @@ Use directamente los metodos proporcionados de la Clase AndeController en el arc
   
 - getNameFilePdf(): Descarga el archivo pdf y retorna el nombre del archivo.
     
-- getHistorial(): Retorna el historial la ANDE usa para graficar el consumo en los años.
+- getHistorial(): Retorna el historial. La ANDE usa para graficar el consumo en los años.
 
 
 ## Attribución
