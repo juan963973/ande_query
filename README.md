@@ -1,4 +1,4 @@
-# ANDE Query
+# ANDE Query V1.3.5
 
 ~~~
 Puede levantar este código en un servidor que corra php y no hace falta ninguna configuración adicional.
@@ -25,10 +25,14 @@ Use directamente los metodos proporcionados de la Clase AndeController en el arc
 
 ## Attribución
 
-Este codigo fue realizado por Juan Alfonso (Agosto del 2022).
+Este código fue realizado por Juan Alfonso (Agosto del 2022).
 
 juanx.alfonso@gmail.com
 
 https://www.facebook.com/juanx.alfonso
+
+Puede Forkear el proyecto y mejorarlo, agradecería mucho poder recibir sus colaboraciones en el código y compartir conocimiento!!
+
+Espero que esto le sea de utilidad!
 
 
