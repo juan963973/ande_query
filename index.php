@@ -1,9 +1,7 @@
 <?php
     require_once 'AndeController.php';
 
-    $nis = '2585233';
-    // $nis = '3212192';
-    // $nis = '3212150';
+    $nis = '3212150';
 
     $ande = new AndeController($nis);
     $ande->renderPdfInHtml();            // Descarga el archivo pdf y retorna en un embed html
